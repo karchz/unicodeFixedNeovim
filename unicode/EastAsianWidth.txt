@@ -61,7 +61,6 @@
 005C;Na          # Po         REVERSE SOLIDUS
 005D;Na          # Pe         RIGHT SQUARE BRACKET
 005E;Na          # Sk         CIRCUMFLEX ACCENT
-005F;Na          # Pc         LOW LINE
 0060;Na          # Sk         GRAVE ACCENT
 0061..007A;Na    # Ll    [26] LATIN SMALL LETTER A..LATIN SMALL LETTER Z
 007B;Na          # Ps         LEFT CURLY BRACKET
